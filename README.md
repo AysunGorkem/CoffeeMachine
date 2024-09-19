@@ -1,2 +1,2 @@
 # CoffeeMachine
-Coffee machine 
+Python Coffee machine 
